@@ -1,0 +1,39 @@
+.card-block{
+    display: grid;
+}
+
+.card{
+    border: 0px;
+}
+
+.fa{
+    font-size: 125%;
+}
+
+a:visited, a:link{
+    color: white;
+    text-decoration: none;
+}
+
+.list-item{
+    background-color: #4B5A62;
+    color: white;
+    border: none;
+}
+
+.list-item-parent{
+    background-color: #414F55;
+    color: white;
+}
+
+.list-item-children{
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list-item-child-item{
+    background-color: #616D73;
+    color: white;
+}
+

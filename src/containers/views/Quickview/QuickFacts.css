@@ -1,0 +1,46 @@
+.quick-facts .card{
+    padding: 10px;
+    border-radius: 0px;
+}
+
+.quick-facts h2,
+.quick-facts h4{
+    text-align: center;
+}
+
+.cards{
+    padding-bottom: 20px;
+}
+
+.quick-cards{
+    height: 100%;
+}
+
+.primary{
+    color: white;
+    background-color: #20a8d8;
+}
+
+.info{
+    color: white;
+    background-color: #63c2de;
+}
+
+.warning{
+    color: white;
+    background-color: #ffc107;
+}
+
+.danger{
+    color: white;
+    background-color: #f86c6b;
+}
+
+.card-title{
+    font-size: 1em;
+    text-align: left !important;
+}
+
+.card-text{
+    font-size: 125%;
+}

@@ -1,0 +1,15 @@
+.bidVsImpression-chart-container{
+    position: relative;
+    height:100%;
+}
+.bidVsImpression-chart-container canvas{
+    height: 100%;
+    width: 100%;
+}
+
+.chart-head{
+    text-align: center;
+    background-color: #20a8d8;
+    color: white;
+    padding: 5px;
+}

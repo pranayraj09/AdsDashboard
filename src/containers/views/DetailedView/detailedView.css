@@ -1,0 +1,18 @@
+
+.detailed-view-content{
+    width: 100%;
+}
+
+.container-fluid{
+    /*padding-right: 15px;*/
+}
+
+.card{
+    border-radius: 0px;
+}
+
+.table-head{
+    background-color: #20a8d8;
+    color: white;
+    font-weight: lighter;
+}

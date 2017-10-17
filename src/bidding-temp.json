@@ -1,0 +1,104 @@
+{
+  "list": [
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 159,
+      "Impressions": 44,
+      "Cost": 291.17
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 73,
+      "Impressions": 42,
+      "Cost": 80.71
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 90,
+      "Impressions": 78,
+      "Cost": 135.68
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 38,
+      "Impressions": 13,
+      "Cost": 10.76
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 163,
+      "Impressions": 57,
+      "Cost": 521.16
+    }
+  ,
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 104,
+      "Impressions": 64,
+      "Cost": 5.04
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 184,
+      "Impressions": 59,
+      "Cost": 256.24
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 376,
+      "Impressions": 204,
+      "Cost": 273.31
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 93,
+      "Impressions": 57,
+      "Cost": 145.36
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 78,
+      "Impressions": 53,
+      "Cost": 123.24
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 94,
+      "Impressions": 64,
+      "Cost": 261.43
+    }
+  ]
+}

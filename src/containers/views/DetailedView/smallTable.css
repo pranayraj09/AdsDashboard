@@ -1,0 +1,21 @@
+.card-title{
+    padding-top: 15px;
+}
+
+tr, td{
+    width:25%;
+}
+
+th{
+    text-align: center;
+}
+
+.mini-table{
+    padding-top: 15px;
+}
+
+.mini-table-head{
+    background-color: #20a8d8;
+    color: white;
+    font-weight: lighter;
+}

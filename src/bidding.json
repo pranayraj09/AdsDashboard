@@ -1,0 +1,4730 @@
+{
+  "list": [
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 1592492097,
+      "Impressions": 4436850,
+      "Cost": 2913.17
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 175673,
+      "Impressions": 142,
+      "Cost": 0.71
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 83223190,
+      "Impressions": 7028,
+      "Cost": 135.68
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 94438358,
+      "Impressions": 103,
+      "Cost": 0.76
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 128291963,
+      "Impressions": 57331,
+      "Cost": 521.16
+    }
+  ,
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 70674,
+      "Impressions": 1274,
+      "Cost": 5.04
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 197694643,
+      "Impressions": 1479169,
+      "Cost": 2596.24
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 186381376,
+      "Impressions": 204274,
+      "Cost": 473.31
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 1438425893,
+      "Impressions": 5171427,
+      "Cost": 14125.36
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 7881861,
+      "Impressions": 292753,
+      "Cost": 473.24
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 205323794,
+      "Impressions": 1604214,
+      "Cost": 2361.43
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 32145390,
+      "Impressions": 139310,
+      "Cost": 85.66
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 18265600,
+      "Impressions": 14217,
+      "Cost": 135.36
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 176955062,
+      "Impressions": 103,
+      "Cost": 0.78
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 565560092,
+      "Impressions": 6403851,
+      "Cost": 5013.04
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 30839092,
+      "Impressions": 48,
+      "Cost": 0.08
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 137350749,
+      "Impressions": 4347976,
+      "Cost": 4389.02
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 14756926,
+      "Impressions": 47131,
+      "Cost": 24.33
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 189490004,
+      "Impressions": 29941,
+      "Cost": 163.28
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 15202441,
+      "Impressions": 3,
+      "Cost": 0.02
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 3953354436,
+      "Impressions": 9102718,
+      "Cost": 22359.48
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 102990796,
+      "Impressions": 578021,
+      "Cost": 1807.71
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 312942746,
+      "Impressions": 264246,
+      "Cost": 1411.52
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 1241855326,
+      "Impressions": 8484613,
+      "Cost": 47048.6
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 809841,
+      "Impressions": 28443,
+      "Cost": 64.02
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 2224,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 23877538,
+      "Impressions": 3,
+      "Cost": 0.03
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 279735598,
+      "Impressions": 5177359,
+      "Cost": 17072.84
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 10810,
+      "Impressions": 2,
+      "Cost": 0.02
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 28293108,
+      "Impressions": 42549,
+      "Cost": 125.3
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 67022747,
+      "Impressions": 83902,
+      "Cost": 241.11
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 1373722828,
+      "Impressions": 3104387,
+      "Cost": 8377.78
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 16035833,
+      "Impressions": 109783,
+      "Cost": 591.44
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 67446986,
+      "Impressions": 1715617,
+      "Cost": 5163.32
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 88167344,
+      "Impressions": 22,
+      "Cost": 0.2
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 181740618,
+      "Impressions": 26,
+      "Cost": 0.27
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 16035622,
+      "Impressions": 715,
+      "Cost": 1.93
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 92481174,
+      "Impressions": 82,
+      "Cost": 0.52
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 271102215,
+      "Impressions": 8854937,
+      "Cost": 10036.41
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 3625392040,
+      "Impressions": 7511313,
+      "Cost": 17310.04
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 154607007,
+      "Impressions": 4742636,
+      "Cost": 12682.4
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 6697794,
+      "Impressions": 54397,
+      "Cost": 569.24
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 82059234,
+      "Impressions": 150274,
+      "Cost": 164.56
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 73214,
+      "Impressions": 1275,
+      "Cost": 5.58
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 21448519,
+      "Impressions": 1195091,
+      "Cost": 3677.6
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 513700552,
+      "Impressions": 1022646,
+      "Cost": 785.16
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 114452906,
+      "Impressions": 154384,
+      "Cost": 870.04
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 29703120,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 2118300228,
+      "Impressions": 1215430,
+      "Cost": 6233.21
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 21823450,
+      "Impressions": 390761,
+      "Cost": 917.32
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 6997669,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 2284109,
+      "Impressions": 3045,
+      "Cost": 2.76
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 3175696,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 218788166,
+      "Impressions": 14277,
+      "Cost": 134.94
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 36784939,
+      "Impressions": 251995,
+      "Cost": 1481.88
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 121360938,
+      "Impressions": 915444,
+      "Cost": 1412.47
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 524203748,
+      "Impressions": 135606,
+      "Cost": 862.94
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 342721,
+      "Impressions": 11143,
+      "Cost": 23.6
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 173806214,
+      "Impressions": 214,
+      "Cost": 1.04
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 2602282,
+      "Impressions": 291,
+      "Cost": 2.52
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 220514209,
+      "Impressions": 273664,
+      "Cost": 1313
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 3959193,
+      "Impressions": 2,
+      "Cost": 0.03
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 2099072484,
+      "Impressions": 34696836,
+      "Cost": 209899.02
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 14292004,
+      "Impressions": 80043,
+      "Cost": 417.12
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 33410750,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 4364855370,
+      "Impressions": 11221690,
+      "Cost": 12830.9
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 529051532,
+      "Impressions": 252381,
+      "Cost": 2725.32
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 15739440,
+      "Impressions": 10,
+      "Cost": 0.02
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 7587198,
+      "Impressions": 10701,
+      "Cost": 36
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 262310370,
+      "Impressions": 25489,
+      "Cost": 473.08
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 387228192,
+      "Impressions": 4815406,
+      "Cost": 31006.32
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 768785506,
+      "Impressions": 5012888,
+      "Cost": 8437.09
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 29230,
+      "Impressions": 493,
+      "Cost": 1.44
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 425744,
+      "Impressions": 1026,
+      "Cost": 1.32
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 155385550,
+      "Impressions": 28028,
+      "Cost": 169.63
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 155470949,
+      "Impressions": 463065,
+      "Cost": 1775.55
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 58247609,
+      "Impressions": 28,
+      "Cost": 0.18
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 2582497,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 88026555,
+      "Impressions": 1504883,
+      "Cost": 5011.12
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 14851905,
+      "Impressions": 424053,
+      "Cost": 3290.56
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 18265600,
+      "Impressions": 275160,
+      "Cost": 1221
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 273437970,
+      "Impressions": 8910337,
+      "Cost": 10847.64
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 15026302,
+      "Impressions": 8,
+      "Cost": 0.02
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 2377,
+      "Impressions": 42,
+      "Cost": 0.24
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 34396534,
+      "Impressions": 53767,
+      "Cost": 70.66
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 152686,
+      "Impressions": 159,
+      "Cost": 2.34
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 71956402,
+      "Impressions": 224,
+      "Cost": 0.41
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 273663102,
+      "Impressions": 2112059,
+      "Cost": 903.48
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 87279070,
+      "Impressions": 71177,
+      "Cost": 611.79
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 186528224,
+      "Impressions": 36016,
+      "Cost": 192.58
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 47012622,
+      "Impressions": 20242,
+      "Cost": 73.74
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 1241844274,
+      "Impressions": 189690,
+      "Cost": 849
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 724543,
+      "Impressions": 29794,
+      "Cost": 129.24
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 24983055,
+      "Impressions": 3803,
+      "Cost": 11.17
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 1321815442,
+      "Impressions": 8966952,
+      "Cost": 37359.03
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 685432,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 7030702,
+      "Impressions": 320328,
+      "Cost": 474.3
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 3702102282,
+      "Impressions": 14983530,
+      "Cost": 66063.52
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 101121036,
+      "Impressions": 2839,
+      "Cost": 19.1
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 267892259,
+      "Impressions": 7041274,
+      "Cost": 18826
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 94177719,
+      "Impressions": 1151848,
+      "Cost": 4881.36
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 4809366,
+      "Impressions": 5094,
+      "Cost": 4.44
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 123231874,
+      "Impressions": 54086,
+      "Cost": 169.58
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 21441371,
+      "Impressions": 3,
+      "Cost": 0.03
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 367295964,
+      "Impressions": 1167915,
+      "Cost": 482.42
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 2216,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 265846,
+      "Impressions": 796,
+      "Cost": 1.65
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 93264116,
+      "Impressions": 2347187,
+      "Cost": 14464.46
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 275244834,
+      "Impressions": 9942869,
+      "Cost": 35345.85
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 268376092,
+      "Impressions": 258814,
+      "Cost": 100.77
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 49229132,
+      "Impressions": 118515,
+      "Cost": 170.9
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 264960376,
+      "Impressions": 8745351,
+      "Cost": 41285.96
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 12839057,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 294542442,
+      "Impressions": 602726,
+      "Cost": 953.46
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 88071846,
+      "Impressions": 2785878,
+      "Cost": 13293.96
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 524069412,
+      "Impressions": 6891038,
+      "Cost": 37202
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 54928898,
+      "Impressions": 3846,
+      "Cost": 8.44
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 27262986,
+      "Impressions": 38166,
+      "Cost": 99.78
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 55112064,
+      "Impressions": 345685,
+      "Cost": 1650.32
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 42110704,
+      "Impressions": 2523464,
+      "Cost": 3046.47
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 286193504,
+      "Impressions": 5114804,
+      "Cost": 2356.98
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 52926904,
+      "Impressions": 22805,
+      "Cost": 77.13
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 48282215,
+      "Impressions": 1823589,
+      "Cost": 9922.47
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 1456393626,
+      "Impressions": 3883926,
+      "Cost": 5237.01
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 517051090,
+      "Impressions": 129549,
+      "Cost": 946.89
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 4579286,
+      "Impressions": 34234,
+      "Cost": 308.49
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 13190,
+      "Impressions": 2,
+      "Cost": 0.02
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 850221,
+      "Impressions": 27138,
+      "Cost": 32.28
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 282450654,
+      "Impressions": 9033860,
+      "Cost": 33695.88
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 11346736,
+      "Impressions": 13847,
+      "Cost": 18.82
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 73282082,
+      "Impressions": 53447,
+      "Cost": 18.82
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 629618706,
+      "Impressions": 272715,
+      "Cost": 2535.48
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 194758382,
+      "Impressions": 409876,
+      "Cost": 843.69
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 172444374,
+      "Impressions": 1501894,
+      "Cost": 2537.98
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 34073442,
+      "Impressions": 145496,
+      "Cost": 36.82
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 412550874,
+      "Impressions": 2774469,
+      "Cost": 12262.83
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 82389467,
+      "Impressions": 48263,
+      "Cost": 15.36
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 185170550,
+      "Impressions": 32,
+      "Cost": 0.07
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 31392,
+      "Impressions": 1215,
+      "Cost": 5.13
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 17274474,
+      "Impressions": 102783,
+      "Cost": 537.1
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 286342607,
+      "Impressions": 5894601,
+      "Cost": 5906.25
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 3115864,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 285745340,
+      "Impressions": 4887046,
+      "Cost": 8311.56
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 6471288,
+      "Impressions": 24640,
+      "Cost": 71.28
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 8079030,
+      "Impressions": 95285,
+      "Cost": 254.94
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 612621774,
+      "Impressions": 8405739,
+      "Cost": 34811.88
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 168897942,
+      "Impressions": 26108,
+      "Cost": 613.96
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 177719010,
+      "Impressions": 2283232,
+      "Cost": 13169.31
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 226525335,
+      "Impressions": 281941,
+      "Cost": 1300.36
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 77692775,
+      "Impressions": 1727540,
+      "Cost": 5307.19
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 110223194,
+      "Impressions": 4078,
+      "Cost": 27
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 1350770891,
+      "Impressions": 4773517,
+      "Cost": 10877.62
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 217423161,
+      "Impressions": 696398,
+      "Cost": 541.3
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 47987048,
+      "Impressions": 31,
+      "Cost": 0.3
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 51319140,
+      "Impressions": 143647,
+      "Cost": 350.38
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 16866240,
+      "Impressions": 52080,
+      "Cost": 65.12
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 1267,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 16353,
+      "Impressions": 37,
+      "Cost": 0.04
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 35976880,
+      "Impressions": 321,
+      "Cost": 1.76
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 853421642,
+      "Impressions": 6138847,
+      "Cost": 16919.88
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 6663340,
+      "Impressions": 16722,
+      "Cost": 26.58
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 3662820620,
+      "Impressions": 6427401,
+      "Cost": 10281.33
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 74644374,
+      "Impressions": 481033,
+      "Cost": 4137.68
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 67346574,
+      "Impressions": 1864336,
+      "Cost": 4047.87
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 202761220,
+      "Impressions": 660591,
+      "Cost": 517.92
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 80496594,
+      "Impressions": 182132,
+      "Cost": 213.6
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 75114,
+      "Impressions": 62,
+      "Cost": 1.24
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 26391300,
+      "Impressions": 117347,
+      "Cost": 519.78
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 111641724,
+      "Impressions": 3690,
+      "Cost": 16.72
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 173830282,
+      "Impressions": 2828436,
+      "Cost": 9530.82
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 91177094,
+      "Impressions": 2866559,
+      "Cost": 9725.76
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 67244328,
+      "Impressions": 1829108,
+      "Cost": 3258.88
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 1123789967,
+      "Impressions": 1258555,
+      "Cost": 6159.93
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 717533856,
+      "Impressions": 13181837,
+      "Cost": 108697.36
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 31531997,
+      "Impressions": 6,
+      "Cost": 0.03
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 63925472,
+      "Impressions": 30061,
+      "Cost": 37.57
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 25670151,
+      "Impressions": 323,
+      "Cost": 0.81
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 685991611,
+      "Impressions": 3949356,
+      "Cost": 6975.81
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 62782,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 2133422,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 351378882,
+      "Impressions": 876241,
+      "Cost": 5588.88
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 29278,
+      "Impressions": 2,
+      "Cost": 0.03
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 3709687,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 42781521,
+      "Impressions": 7,
+      "Cost": 0.02
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 987931846,
+      "Impressions": 1869295,
+      "Cost": 4971
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 1016413858,
+      "Impressions": 2252864,
+      "Cost": 3300.28
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 163083622,
+      "Impressions": 1269194,
+      "Cost": 2043.16
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 574477790,
+      "Impressions": 9012000,
+      "Cost": 68304.24
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 119386318,
+      "Impressions": 419582,
+      "Cost": 830.73
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 24299322,
+      "Impressions": 14,
+      "Cost": 0.12
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 485448,
+      "Impressions": 1878,
+      "Cost": 5.12
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 996506,
+      "Impressions": 5,
+      "Cost": 0
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 931583532,
+      "Impressions": 5360322,
+      "Cost": 23903.1
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 441234,
+      "Impressions": 1461,
+      "Cost": 3.6
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 22941142,
+      "Impressions": 397695,
+      "Cost": 796.48
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 196391404,
+      "Impressions": 78665,
+      "Cost": 55.94
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 8989742,
+      "Impressions": 10438,
+      "Cost": 34.26
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 853420472,
+      "Impressions": 353616,
+      "Cost": 2250.68
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 47955854,
+      "Impressions": 32630,
+      "Cost": 176.06
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 14615,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 61678184,
+      "Impressions": 307440,
+      "Cost": 445.67
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 2621836534,
+      "Impressions": 3326857,
+      "Cost": 9136.56
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 260958698,
+      "Impressions": 641206,
+      "Cost": 491.24
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 186011212,
+      "Impressions": 314706,
+      "Cost": 111.65
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 71240242,
+      "Impressions": 35,
+      "Cost": 0.16
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 724530,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 4714643,
+      "Impressions": 7663,
+      "Cost": 23.04
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 171651994,
+      "Impressions": 136672,
+      "Cost": 284.32
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 92078697,
+      "Impressions": 30972,
+      "Cost": 668.44
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 29516586,
+      "Impressions": 24,
+      "Cost": 0.06
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 193493504,
+      "Impressions": 308902,
+      "Cost": 596.28
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 163081376,
+      "Impressions": 26,
+      "Cost": 0.36
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 8114609,
+      "Impressions": 119241,
+      "Cost": 311.18
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 163885612,
+      "Impressions": 296552,
+      "Cost": 1019.52
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 8353210,
+      "Impressions": 321388,
+      "Cost": 130.46
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 16705598,
+      "Impressions": 314113,
+      "Cost": 598.95
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 355789783,
+      "Impressions": 418648,
+      "Cost": 4392.56
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 140240350,
+      "Impressions": 137924,
+      "Cost": 410.58
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 71207078,
+      "Impressions": 494992,
+      "Cost": 4380.52
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 176957418,
+      "Impressions": 1523403,
+      "Cost": 1248.19
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 147483049,
+      "Impressions": 657736,
+      "Cost": 976.76
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 29908442,
+      "Impressions": 120260,
+      "Cost": 64.98
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 244175938,
+      "Impressions": 566132,
+      "Cost": 653.49
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 903460,
+      "Impressions": 29082,
+      "Cost": 66.2
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 3800851,
+      "Impressions": 836,
+      "Cost": 8.24
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 5540856,
+      "Impressions": 37929,
+      "Cost": 28.8
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 312869096,
+      "Impressions": 9933641,
+      "Cost": 97745.24
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 185191000,
+      "Impressions": 2485355,
+      "Cost": 14593.35
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 430011906,
+      "Impressions": 617626,
+      "Cost": 440.62
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 3589113,
+      "Impressions": 1,
+      "Cost": 0
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 285299315,
+      "Impressions": 393717,
+      "Cost": 568.08
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 661566396,
+      "Impressions": 558093,
+      "Cost": 264.61
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 1099449468,
+      "Impressions": 33727818,
+      "Cost": 133974.38
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 24614519,
+      "Impressions": 292,
+      "Cost": 3
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 22940570,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 171263956,
+      "Impressions": 43,
+      "Cost": 0.22
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 244593362,
+      "Impressions": 671160,
+      "Cost": 1002.24
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 9180689,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 629468680,
+      "Impressions": 9824338,
+      "Cost": 24718.21
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 1622976699,
+      "Impressions": 6140594,
+      "Cost": 13922.38
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 604652180,
+      "Impressions": 414999,
+      "Cost": 709.8
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 4754,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 74678564,
+      "Impressions": 9189,
+      "Cost": 55.34
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 232231709,
+      "Impressions": 2097602,
+      "Cost": 1993.06
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 926,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 59873300,
+      "Impressions": 80709,
+      "Cost": 397.8
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 92498996,
+      "Impressions": 2684500,
+      "Cost": 4956.14
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 285945142,
+      "Impressions": 833344,
+      "Cost": 1389.42
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 1749456390,
+      "Impressions": 9088170,
+      "Cost": 18490.76
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 71956624,
+      "Impressions": 147059,
+      "Cost": 356.54
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 32594,
+      "Impressions": 5,
+      "Cost": 0.08
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 1792,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 124072866,
+      "Impressions": 1717632,
+      "Cost": 7974.03
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 159698198,
+      "Impressions": 857360,
+      "Cost": 2998.68
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 33625914,
+      "Impressions": 1,
+      "Cost": 0
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 528945294,
+      "Impressions": 8832107,
+      "Cost": 44140.08
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 1806874,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 465791057,
+      "Impressions": 129422,
+      "Cost": 312.73
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 574626636,
+      "Impressions": 231373,
+      "Cost": 1970.88
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 112162365,
+      "Impressions": 131477,
+      "Cost": 734.28
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 168897942,
+      "Impressions": 1764542,
+      "Cost": 16150.83
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 184157406,
+      "Impressions": 2052224,
+      "Cost": 25318.52
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 148734112,
+      "Impressions": 657188,
+      "Cost": 988.28
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 7419374,
+      "Impressions": 50491,
+      "Cost": 141.28
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 14758293,
+      "Impressions": 359205,
+      "Cost": 1494.93
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 86839706,
+      "Impressions": 3244877,
+      "Cost": 23083.08
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 7379486,
+      "Impressions": 4824,
+      "Cost": 6.74
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 64842,
+      "Impressions": 407,
+      "Cost": 0.75
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 15763506,
+      "Impressions": 5,
+      "Cost": 0.03
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 208564246,
+      "Impressions": 936873,
+      "Cost": 2171.7
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 56341268,
+      "Impressions": 199129,
+      "Cost": 141.88
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 649906860,
+      "Impressions": 215833,
+      "Cost": 497.94
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 7462605,
+      "Impressions": 176011,
+      "Cost": 393.04
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 384391493,
+      "Impressions": 256575,
+      "Cost": 3854.8
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 250088118,
+      "Impressions": 4469516,
+      "Cost": 1911.75
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 7244497,
+      "Impressions": 336715,
+      "Cost": 148.32
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 1134,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 527228736,
+      "Impressions": 1782011,
+      "Cost": 2830.32
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 137899509,
+      "Impressions": 26015,
+      "Cost": 486.36
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 261605912,
+      "Impressions": 25792,
+      "Cost": 122
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 265682234,
+      "Impressions": 5110631,
+      "Cost": 8475.64
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 267964329,
+      "Impressions": 5662146,
+      "Cost": 5889.48
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 20063796,
+      "Impressions": 182611,
+      "Cost": 238.04
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 12720,
+      "Impressions": 27,
+      "Cost": 0.02
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 532342388,
+      "Impressions": 996709,
+      "Cost": 1674.4
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 114303832,
+      "Impressions": 4693480,
+      "Cost": 16175.2
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 517052843,
+      "Impressions": 5627062,
+      "Cost": 16294.46
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 2280382249,
+      "Impressions": 12999840,
+      "Cost": 21491.4
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 14925210,
+      "Impressions": 2,
+      "Cost": 0.03
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 87723323,
+      "Impressions": 291,
+      "Cost": 0.67
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 39904170,
+      "Impressions": 51856,
+      "Cost": 73.54
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 27290232,
+      "Impressions": 10460,
+      "Cost": 244.88
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 119718778,
+      "Impressions": 88397,
+      "Cost": 391.14
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 41951456,
+      "Impressions": 11,
+      "Cost": 0.08
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 8627528,
+      "Impressions": 13371,
+      "Cost": 33.34
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 433024968,
+      "Impressions": 6190245,
+      "Cost": 8760.36
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 33716395,
+      "Impressions": 9,
+      "Cost": 0.18
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 31083670,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 659927746,
+      "Impressions": 1107375,
+      "Cost": 3417.44
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 9979002,
+      "Impressions": 1018,
+      "Cost": 2.91
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 94438360,
+      "Impressions": 555227,
+      "Cost": 2806.6
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 6997758,
+      "Impressions": 340090,
+      "Cost": 2412.72
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 16632422,
+      "Impressions": 512407,
+      "Cost": 971.95
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 8353113,
+      "Impressions": 1,
+      "Cost": 0
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 68123656,
+      "Impressions": 16,
+      "Cost": 0.39
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 30148183,
+      "Impressions": 32560,
+      "Cost": 155.64
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 6697794,
+      "Impressions": 22,
+      "Cost": 0.8
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 102119698,
+      "Impressions": 120943,
+      "Cost": 175.94
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 114486251,
+      "Impressions": 370668,
+      "Cost": 923.76
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 128001414,
+      "Impressions": 4025227,
+      "Cost": 7630.12
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 44185424,
+      "Impressions": 2659913,
+      "Cost": 6066.38
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 99772142,
+      "Impressions": 511681,
+      "Cost": 609.5
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 187967814,
+      "Impressions": 31380,
+      "Cost": 329.4
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 2702432,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 7146002,
+      "Impressions": 238,
+      "Cost": 5.44
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 35996014,
+      "Impressions": 436760,
+      "Cost": 978.51
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 1127108254,
+      "Impressions": 1919509,
+      "Cost": 2783.52
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 804806,
+      "Impressions": 27379,
+      "Cost": 126.28
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 72139270,
+      "Impressions": 44992,
+      "Cost": 59
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 660900715,
+      "Impressions": 197572,
+      "Cost": 879.36
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 118631002,
+      "Impressions": 699727,
+      "Cost": 2707.8
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 4732679,
+      "Impressions": 11476,
+      "Cost": 29.2
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 111642732,
+      "Impressions": 442594,
+      "Cost": 1933.88
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 219788456,
+      "Impressions": 468080,
+      "Cost": 1271.88
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 34750,
+      "Impressions": 6,
+      "Cost": 0.01
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 21565784,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 17982,
+      "Impressions": 5,
+      "Cost": 0.02
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 23877538,
+      "Impressions": 348115,
+      "Cost": 1398.63
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 95975534,
+      "Impressions": 899903,
+      "Cost": 2204.82
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 68146276,
+      "Impressions": 1728137,
+      "Cost": 4536.09
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 77502318,
+      "Impressions": 3019925,
+      "Cost": 10372.56
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 18107212,
+      "Impressions": 373034,
+      "Cost": 675.24
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 219561366,
+      "Impressions": 1222931,
+      "Cost": 3070.95
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 1046531816,
+      "Impressions": 1137117,
+      "Cost": 11129.06
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 43809384,
+      "Impressions": 1,
+      "Cost": 0.03
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 25166307,
+      "Impressions": 147235,
+      "Cost": 1483.92
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 193860722,
+      "Impressions": 3442546,
+      "Cost": 5347.44
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 10031745,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 55932082,
+      "Impressions": 138339,
+      "Cost": 148
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 71953864,
+      "Impressions": 137255,
+      "Cost": 657.16
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 21089131,
+      "Impressions": 53497,
+      "Cost": 131.36
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 67327088,
+      "Impressions": 12,
+      "Cost": 0.12
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 33626452,
+      "Impressions": 347071,
+      "Cost": 238.78
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 36137294,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 113827938,
+      "Impressions": 164216,
+      "Cost": 1129.56
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 63074608,
+      "Impressions": 1542518,
+      "Cost": 3524.61
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 35336,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 217539099,
+      "Impressions": 362317,
+      "Cost": 979.68
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 472141248,
+      "Impressions": 2175769,
+      "Cost": 3607.24
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 174513282,
+      "Impressions": 2894162,
+      "Cost": 7672.86
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 88848364,
+      "Impressions": 30,
+      "Cost": 0.52
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 25177889,
+      "Impressions": 267,
+      "Cost": 0.6
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 1700420,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 36784893,
+      "Impressions": 9550,
+      "Cost": 127.76
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 2751244,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 514843116,
+      "Impressions": 1969559,
+      "Cost": 2713.56
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 1158,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 7601702,
+      "Impressions": 32294,
+      "Cost": 158.96
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 613649282,
+      "Impressions": 451658,
+      "Cost": 414.84
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 5320660,
+      "Impressions": 19865,
+      "Cost": 62.74
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 31516216,
+      "Impressions": 50747,
+      "Cost": 110.76
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 4648071400,
+      "Impressions": 14556408,
+      "Cost": 33973.12
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 248079358,
+      "Impressions": 2290079,
+      "Cost": 6816.9
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 535927036,
+      "Impressions": 132394,
+      "Cost": 421.59
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 620939898,
+      "Impressions": 452440,
+      "Cost": 582.3
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 412545394,
+      "Impressions": 52562,
+      "Cost": 392.52
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 15026492,
+      "Impressions": 285015,
+      "Cost": 568.4
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 15202738,
+      "Impressions": 478133,
+      "Cost": 3505.56
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 63432052,
+      "Impressions": 1989455,
+      "Cost": 6765.44
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 425175730,
+      "Impressions": 234485,
+      "Cost": 296.52
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 92931408,
+      "Impressions": 97411,
+      "Cost": 318.46
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 35620059,
+      "Impressions": 7477,
+      "Cost": 55.83
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 530323772,
+      "Impressions": 1786822,
+      "Cost": 3806.58
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 1980775248,
+      "Impressions": 35023450,
+      "Cost": 138709.36
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 31084328,
+      "Impressions": 513134,
+      "Cost": 4057.12
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 766326,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 4266844,
+      "Impressions": 19216,
+      "Cost": 29.9
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 10668126,
+      "Impressions": 41573,
+      "Cost": 59.26
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 7030597,
+      "Impressions": 3,
+      "Cost": 0.01
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 456226656,
+      "Impressions": 1503755,
+      "Cost": 3821.56
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 4579286,
+      "Impressions": 114,
+      "Cost": 1.95
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 131518,
+      "Impressions": 36,
+      "Cost": 0.32
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 60788452,
+      "Impressions": 117215,
+      "Cost": 135.28
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 7851716,
+      "Impressions": 170047,
+      "Cost": 159.74
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 697023022,
+      "Impressions": 1197282,
+      "Cost": 8289.12
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 8114609,
+      "Impressions": 575,
+      "Cost": 12.76
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 218509194,
+      "Impressions": 2952423,
+      "Cost": 2332.34
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 92183506,
+      "Impressions": 72604,
+      "Cost": 25.65
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 213370328,
+      "Impressions": 3607,
+      "Cost": 24.92
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 1129,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 9341235,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 181742790,
+      "Impressions": 1662465,
+      "Cost": 5704.28
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 6604461,
+      "Impressions": 17617,
+      "Cost": 17.22
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 9549614,
+      "Impressions": 1612,
+      "Cost": 10.1
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 18682470,
+      "Impressions": 196675,
+      "Cost": 466.12
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 2751244,
+      "Impressions": 13106,
+      "Cost": 19.62
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 234653468,
+      "Impressions": 4852827,
+      "Cost": 11860.26
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 2467592978,
+      "Impressions": 2263428,
+      "Cost": 10165.44
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 43560871,
+      "Impressions": 2,
+      "Cost": 0.01
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 233029758,
+      "Impressions": 613748,
+      "Cost": 841.76
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 93983912,
+      "Impressions": 2057641,
+      "Cost": 6454.64
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 54929384,
+      "Impressions": 368769,
+      "Cost": 846.82
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 29708,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 54580470,
+      "Impressions": 616346,
+      "Cost": 7928.32
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 612615790,
+      "Impressions": 202032,
+      "Cost": 1350.9
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 1837587414,
+      "Impressions": 7752263,
+      "Cost": 4323.34
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 16632070,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 560571240,
+      "Impressions": 375794,
+      "Cost": 447.21
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 34427228,
+      "Impressions": 77829,
+      "Cost": 90.96
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 7244400,
+      "Impressions": 9,
+      "Cost": 0.03
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 17695276,
+      "Impressions": 317737,
+      "Cost": 381.96
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 168819648,
+      "Impressions": 47304,
+      "Cost": 15.85
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 95911708,
+      "Impressions": 630282,
+      "Cost": 1730.8
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 866048540,
+      "Impressions": 346985,
+      "Cost": 3423.99
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 1852789613,
+      "Impressions": 8786337,
+      "Cost": 4779.67
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 662249210,
+      "Impressions": 1416429,
+      "Cost": 4196.76
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 367693604,
+      "Impressions": 1062793,
+      "Cost": 418.56
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 121360918,
+      "Impressions": 34757,
+      "Cost": 104.02
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 2168040640,
+      "Impressions": 1206365,
+      "Cost": 12115.98
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 239899131,
+      "Impressions": 1477821,
+      "Cost": 2567.56
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "FR",
+      "Bid Requests": 82227666,
+      "Impressions": 24413,
+      "Cost": 8.21
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 1770934703,
+      "Impressions": 13837330,
+      "Cost": 16029.01
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 465828412,
+      "Impressions": 1683402,
+      "Cost": 2114.43
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 1988571856,
+      "Impressions": 1157281,
+      "Cost": 11241.72
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 116495218,
+      "Impressions": 710016,
+      "Cost": 2357.91
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 126135655,
+      "Impressions": 4364386,
+      "Cost": 6443.64
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 175471198,
+      "Impressions": 2976096,
+      "Cost": 10210.52
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 2248998024,
+      "Impressions": 40606590,
+      "Cost": 325828.56
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 17274474,
+      "Impressions": 472,
+      "Cost": 9.44
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 45048461,
+      "Impressions": 50845,
+      "Cost": 296.24
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 1619646,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 312307377,
+      "Impressions": 1317484,
+      "Cost": 3953.86
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 9053476,
+      "Impressions": 20,
+      "Cost": 0.08
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 54796094,
+      "Impressions": 3866,
+      "Cost": 12.77
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 3158,
+      "Impressions": 1,
+      "Cost": 0.03
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 36137776,
+      "Impressions": 304709,
+      "Cost": 753.44
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 52782410,
+      "Impressions": 436,
+      "Cost": 3.39
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 36013182,
+      "Impressions": 9335,
+      "Cost": 92.58
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 244333992,
+      "Impressions": 804221,
+      "Cost": 1432.72
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 146408513,
+      "Impressions": 700799,
+      "Cost": 1131.36
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 86823452,
+      "Impressions": 420,
+      "Cost": 3.28
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 21566094,
+      "Impressions": 372017,
+      "Cost": 452.02
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 86171256,
+      "Impressions": 2417,
+      "Cost": 11.32
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 9979004,
+      "Impressions": 43178,
+      "Cost": 191.64
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 1301141,
+      "Impressions": 11665,
+      "Cost": 33.34
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 85917015,
+      "Impressions": 610546,
+      "Cost": 481.88
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 171650660,
+      "Impressions": 107380,
+      "Cost": 117.5
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 63413728,
+      "Impressions": 11,
+      "Cost": 0.2
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 17695050,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 384287384,
+      "Impressions": 317785,
+      "Cost": 947.46
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 27398086,
+      "Impressions": 186318,
+      "Cost": 259.4
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 7178226,
+      "Impressions": 101212,
+      "Cost": 61.68
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 436049006,
+      "Impressions": 1484680,
+      "Cost": 1780.47
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 9545278,
+      "Impressions": 136707,
+      "Cost": 349.12
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 4447300604,
+      "Impressions": 14318672,
+      "Cost": 35256.64
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 629495178,
+      "Impressions": 721501,
+      "Cost": 3533.01
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 191320016,
+      "Impressions": 893230,
+      "Cost": 2762.76
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 14854,
+      "Impressions": 517,
+      "Cost": 1.7
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 3115864,
+      "Impressions": 48930,
+      "Cost": 29.78
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 429233508,
+      "Impressions": 353140,
+      "Cost": 858.28
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 1532676,
+      "Impressions": 26609,
+      "Cost": 117.72
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 88025480,
+      "Impressions": 75,
+      "Cost": 0.76
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 13521236,
+      "Impressions": 36034,
+      "Cost": 49.66
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 86172420,
+      "Impressions": 248882,
+      "Cost": 1222.24
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 6351392,
+      "Impressions": 51320,
+      "Cost": 32.05
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 777,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 287510948,
+      "Impressions": 9544372,
+      "Cost": 23440.16
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 2429628648,
+      "Impressions": 15666184,
+      "Cost": 9704.64
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 94745004,
+      "Impressions": 1916812,
+      "Cost": 11830.92
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 3959193,
+      "Impressions": 57568,
+      "Cost": 164.08
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 1083912644,
+      "Impressions": 1525730,
+      "Cost": 3210.03
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 4066,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 1299834330,
+      "Impressions": 8327239,
+      "Cost": 11417.8
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 4066,
+      "Impressions": 51,
+      "Cost": 0.36
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 243156454,
+      "Impressions": 114301,
+      "Cost": 982.86
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 2184263632,
+      "Impressions": 1319392,
+      "Cost": 6698.73
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 102990796,
+      "Impressions": 8,
+      "Cost": 0.02
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 59954151,
+      "Impressions": 61852,
+      "Cost": 217.14
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 5164994,
+      "Impressions": 41058,
+      "Cost": 25.32
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 914749240,
+      "Impressions": 3026973,
+      "Cost": 17695.92
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 340847776,
+      "Impressions": 927209,
+      "Cost": 3428.64
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 171266848,
+      "Impressions": 1236021,
+      "Cost": 1058.77
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 124338026,
+      "Impressions": 633695,
+      "Cost": 1775.88
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 115702580,
+      "Impressions": 229299,
+      "Cost": 1042.16
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 132045122,
+      "Impressions": 5237265,
+      "Cost": 4146.82
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 220932246,
+      "Impressions": 145694,
+      "Cost": 935.92
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 85931814,
+      "Impressions": 2632269,
+      "Cost": 6430.8
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 13096982,
+      "Impressions": 23,
+      "Cost": 0.18
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 48274479,
+      "Impressions": 133,
+      "Cost": 1.36
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "CA",
+      "Bid Requests": 8079029,
+      "Impressions": 458,
+      "Cost": 10.56
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 996506,
+      "Impressions": 29617,
+      "Cost": 52.68
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 19916902,
+      "Impressions": 53272,
+      "Cost": 159.76
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 10673668,
+      "Impressions": 35116,
+      "Cost": 48.38
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 198055680,
+      "Impressions": 378445,
+      "Cost": 414.36
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 98853912,
+      "Impressions": 1155915,
+      "Cost": 4884.27
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 45410558,
+      "Impressions": 14,
+      "Cost": 0.04
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "US",
+      "Bid Requests": 1790015070,
+      "Impressions": 12414040,
+      "Cost": 42558.24
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 7512180,
+      "Impressions": 71514,
+      "Cost": 151.62
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 86220886,
+      "Impressions": 80,
+      "Cost": 0.52
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 71259306,
+      "Impressions": 2112758,
+      "Cost": 5477.46
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "US",
+      "Bid Requests": 774455256,
+      "Impressions": 216556,
+      "Cost": 787.54
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 227486805,
+      "Impressions": 1890052,
+      "Cost": 4985.52
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 9180689,
+      "Impressions": 214469,
+      "Cost": 467
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 24416972,
+      "Impressions": 1479639,
+      "Cost": 3562.38
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "ES",
+      "Bid Requests": 5404864,
+      "Impressions": 27242,
+      "Cost": 18.16
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "GB",
+      "Bid Requests": 12839328,
+      "Impressions": 314978,
+      "Cost": 2417.28
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 7851590,
+      "Impressions": 20,
+      "Cost": 0.09
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 160859774,
+      "Impressions": 229671,
+      "Cost": 339.51
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 99772142,
+      "Impressions": 16,
+      "Cost": 0.08
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 261265592,
+      "Impressions": 1910752,
+      "Cost": 5730.98
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 2167283894,
+      "Impressions": 34490556,
+      "Cost": 135915.2
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 7869720,
+      "Impressions": 186870,
+      "Cost": 335.58
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 278967916,
+      "Impressions": 5457386,
+      "Cost": 4492.98
+    },
+    {
+      "Date": "10/9/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 24972076,
+      "Impressions": 269668,
+      "Cost": 1919.55
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher D",
+      "Bidder": "Bidder A",
+      "Country": "CA",
+      "Bid Requests": 19015790,
+      "Impressions": 25917,
+      "Cost": 59.01
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder A",
+      "Country": "GB",
+      "Bid Requests": 537426946,
+      "Impressions": 1760226,
+      "Cost": 4989.76
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "US",
+      "Bid Requests": 1063307667,
+      "Impressions": 33248149,
+      "Cost": 64768.42
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 13096982,
+      "Impressions": 49697,
+      "Cost": 253.66
+    },
+    {
+      "Date": "10/10/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder A",
+      "Country": "ES",
+      "Bid Requests": 216362004,
+      "Impressions": 1143032,
+      "Cost": 3266.49
+    },
+    {
+      "Date": "10/8/17",
+      "Publisher": "Publisher E",
+      "Bidder": "Bidder C",
+      "Country": "FR",
+      "Bid Requests": 43775733,
+      "Impressions": 2801462,
+      "Cost": 10214.49
+    },
+    {
+      "Date": "10/7/17",
+      "Publisher": "Publisher A",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 21823063,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/13/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder C",
+      "Country": "CA",
+      "Bid Requests": 78990196,
+      "Impressions": 740740,
+      "Cost": 2497.42
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher B",
+      "Bidder": "Bidder B",
+      "Country": "GB",
+      "Bid Requests": 164971,
+      "Impressions": 188,
+      "Cost": 3.44
+    },
+    {
+      "Date": "10/12/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "FR",
+      "Bid Requests": 73214,
+      "Impressions": 0,
+      "Cost": 0
+    },
+    {
+      "Date": "10/11/17",
+      "Publisher": "Publisher C",
+      "Bidder": "Bidder B",
+      "Country": "ES",
+      "Bid Requests": 804790,
+      "Impressions": 0,
+      "Cost": 0
+    }
+  ]
+}
