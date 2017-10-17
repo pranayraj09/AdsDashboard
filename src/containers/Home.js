@@ -34,13 +34,13 @@ class Home extends Component{
                         <Col sm="8" md="9" lg="10" className="main-content">
                             <Row><Breadcrumbs/></Row>
                             <Row>
-                                <Route exact path="/" component={QuickView}/>
-                                <Route exact path="/detail-view" component={DetailedView}/>
-                                <Route exact path="/locations" component={Locations}/>
-                                <Route exact path="/comparision" component={Compare}/>
-                                <Route exact path="/bidder-performance" component={BidderPerformance}/>
-                                <Route exact path="/publisher-performance" component={PublisherPerformance}/>
-                                <Route exact path="/notes" component={Notes}/>
+                                <Route exact path="/AdsDashboard/" component={QuickView}/>
+                                <Route exact path="/AdsDashboard/detail-view" component={DetailedView}/>
+                                <Route exact path="/AdsDashboard/locations" component={Locations}/>
+                                <Route exact path="/AdsDashboard/comparision" component={Compare}/>
+                                <Route exact path="/AdsDashboard/bidder-performance" component={BidderPerformance}/>
+                                <Route exact path="/AdsDashboard/publisher-performance" component={PublisherPerformance}/>
+                                <Route exact path="/AdsDashboard/notes" component={Notes}/>
                             </Row>
                         </Col>
                     </Row>

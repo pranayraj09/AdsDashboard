@@ -18,7 +18,7 @@ class Navigation extends Component{
         return (
             <Card>
                 <Navbar light>
-                    <NavbarBrand href="/">Ad Publisher Inc.</NavbarBrand>
+                    <NavbarBrand href="/AdsDashboard/">Ad Publisher Inc.</NavbarBrand>
                         <Nav className="ml-auto">
                             <NavItem>
                                 <NavLink href="/">Dashboard</NavLink>
